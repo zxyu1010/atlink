@@ -1,7 +1,7 @@
 import time
 import telebot
 
-TOKEN = "your bot token here"
+TOKEN = "1744451947:AAGqkPYNt_Ug4GuUA1ciBtgRpXkUlj81kpI"
 bot = telebot.TeleBot(token=TOKEN)
 
 def findat(msg):
